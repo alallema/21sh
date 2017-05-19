@@ -3,12 +3,14 @@
 Ce projet a pour but de vous faire faire un début de shell.
 
 |---------|-----------------|
-|   KEY   | 	ACTION		|
+|   KEY   | 	ACTION		    |
 |---------|-----------------|
-|alt + up | up				|
-|alt + do | down			|
-|left	    | left			|
-|right	  | right			|
+|alt + up | up |
+|alt + do | down |
+|left | left |
+|right | right	|
+
+
 |---------|-----------------|
 |ctrl + b | cut word before	|
 |ctrl + e | cut word after	|
