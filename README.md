@@ -1,11 +1,13 @@
 # 21sh
 
+Ce projet a pour but de vous faire faire un début de shell.
+
 |---------|-----------------|
 |   KEY   | 	ACTION		|
 |---------|-----------------|
 |alt + up | up				|
 |alt + do | down			|
-|left	  | left			|
+|left	    | left			|
 |right	  | right			|
 |---------|-----------------|
 |ctrl + b | cut word before	|
